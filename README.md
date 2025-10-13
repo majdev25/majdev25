@@ -35,13 +35,6 @@ Passionate about building practical and creative open-source software.
 
 ---
 
-### 🌱 Currently Learning
-
-- WebGPU graphics programming
-- Advanced Go concurrency patterns
-
----
-
 ### 📫 Contact
 
 - 📧 majandmaj@gmail.com
