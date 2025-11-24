@@ -10,7 +10,7 @@ I specialize in full-stack web application development, focusing on building hig
 
 These projects represent my professional experience gained alongside my studies.
 
-- 🏥 **Hospital Intranet Platform** (reliably working for 6+ years)
+- 🏥 **Hospital Intranet Platform**
   * Sustained Development and Stability: In continuous operation and actively developed for **over six years**, demonstrating commitment to system longevity, stability, and ongoing feature enhancement.
   * Developed and maintained a critical internal system used by **1,000+ hospital staff**.
   * Responsible for full lifecycle development (frontend, backend, database) and managing the server/backup infrastructure.
