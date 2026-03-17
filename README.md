@@ -3,6 +3,7 @@
 Motivated and versatile Software Engineer with a strong analytical background. I hold a Bachelor's degree in Computer and Information Science from the University of Ljubljana (UL FRI).
 
 I specialize in full-stack web application development, with a focus on building high-reliability internal systems for healthcare and pharmaceutical institutions.
+
 ---
 
 ### 🚀 Professional Experience & Featured Projects
